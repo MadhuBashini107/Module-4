@@ -28,9 +28,7 @@ To write a Python program to take the radius from the user and find the area of 
 
 ### PROGRAM
 
-```
-REG NO-212223060120
-NAME- KAVIYA PRIYA K
+```python
 import math
 class Circle:
     def __init__(self, radius):

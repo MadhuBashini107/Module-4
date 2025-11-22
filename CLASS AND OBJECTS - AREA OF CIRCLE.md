@@ -39,12 +39,12 @@ radius = float(input())
 circle = Circle(radius)
 print(f"Area of circle: {circle.calculate_area():.2f}")
 ```
-
+---
 ### OUTPUT
+
 <img width="828" height="283" alt="image" src="https://github.com/user-attachments/assets/02a0258e-bb27-4723-9a46-6f1795a23089" />
 
+---
 ### RESULT
 Thus, the Python code is written and executed successfully.
 
-### RESULT
-Thus, the python code is written and executed successfully.
